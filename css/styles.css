@@ -24,13 +24,13 @@ body {
 	transform: translateZ(-1px) scale(2.1); /* parallax effect */
 }
 .parallax {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-700.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-1080.jpg);
 }
 .parallax2 {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-700.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-1080.jpg);
 }
 .parallax3 {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-700.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-1080.jpg);
 }
 .text {
 	position: absolute;
@@ -115,17 +115,17 @@ body {
 	height: 300px;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 }
 .parallaxGrid1 {
-	transform: translateZ(-1px) scale(3.2) translate(-50%); /* parallax effect */	
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-700.jpg);
-	background-position: center;
+	transform: translateZ(-1px) scale(3.2); /* parallax effect */	
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-1080.jpg);
 }
 .parallaxGrid2 {
 	transform: translateZ(-1px) scale(3.2); /* parallax effect */
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-700.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-1080.jpg);
 }
 .parallaxGrid3 {
-	transform: translateZ(-1px) scale(3.2) translate(50%); /* parallax effect */	
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-700.jpg);
+	transform: translateZ(-1px) scale(3.2); /* parallax effect */	
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-1080.jpg);
 }
