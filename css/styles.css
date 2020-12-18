@@ -1,8 +1,8 @@
-html{
+html {
 	height: 100%; /* parallax effect */
 	overflow: hidden; /* parallax effect */
 }
-body{
+body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Poppins', sans-serif;
@@ -11,26 +11,28 @@ body{
 	overflow-y: scroll; /* parallax effect */
 	overflow-x: hidden; /* parallax effect */
 }
-.content-parallax{
+.content-parallax {
 	overflow: hidden; /* parallax effect */
 }
-.parallax, .parallax2, .parallax3{
+.parallax,
+.parallax2,
+.parallax3 {
 	height: 100vh; 
 	width: 100%;
 	background-size: cover;
 	background-position: center;
 	transform: translateZ(-1px) scale(2.1); /* parallax effect */
 }
-.parallax{
-	background-image: url(../img/bg.jpg);
+.parallax {
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-700.jpg);
 }
-.parallax2{
-	background-image: url(../img/bg2.jpg);
+.parallax2 {
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-700.jpg);
 }
-.parallax3{
-	background-image: url(../img/bg5.jpg);
+.parallax3 {
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-700.jpg);
 }
-.text{
+.text {
 	position: absolute;
 	top: 0;
 	width: 100%;
@@ -39,50 +41,54 @@ body{
 	justify-content: center;
 	align-items: center;
 }
-.text h1{
+.text h1 {
 	font-size: 48px;
 	text-align: center;
 	color: #262626;
 	text-shadow: 3px 3px #fff;
 }
-.container{
+.container {
 	width: 80%;
 	margin: 0 auto;
 }
-.s1, .s2, .s3{
+.s1,
+.s2,
+.s3 {
 	padding: 1rem;
 	display: inline-block; /* quitar espacios (no se por que se generan estos espacios) */
 }
-.s1  h2, .s2  h2, .s3 h2{
+.s1  h2,
+.s2  h2,
+.s3 h2 {
 	text-align: center;
 	padding-top: 24px;
 	font-size: 32px;
 	text-transform: uppercase;
 }
-.s1{
+.s1 {
 	background-color: #f5f5f5;
 	color: #262626;
 }
-.s2{
+.s2 {
 	background-color: #ccc;
 	color: #000;
 }
-.s3{
+.s3 {
 	background-color: #262626;
 	color: #fff;
 }
-.footer{
+.footer {
 	background-color: #000;
 }
-.footer .container{
+.footer .container {
 	color: rgba(255, 255, 255, .7);
 	display: grid; /* quitar espacios (no se por que se generan estos espacios) */
 	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
-.footer .container div{
+.footer .container div {
 	padding: 10px;
 }
-.title{
+.title {
 	margin-top: 3rem;
 	text-align: center;
 	text-transform: uppercase;
@@ -91,33 +97,35 @@ body{
 	text-shadow: 2px 2px #ccc;
 	padding: 1rem;
 }
-.content-parallax-grid{
+.content-parallax-grid {
 	width: 90%;
 	margin: 0 auto;
 	margin-bottom: 2rem; 
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
-.content-parallax-col{
+.content-parallax-col {
 	margin: 2rem;
 	overflow: hidden;
 }
-.parallaxGrid1, .parallaxGrid2, .parallaxGrid3{
+.parallaxGrid1,
+.parallaxGrid2,
+.parallaxGrid3 {
 	width: 300px;
 	height: 300px;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
-.parallaxGrid1{
+.parallaxGrid1 {
 	transform: translateZ(-1px) scale(3.2) translate(-50%); /* parallax effect */	
-	background-image: url(../img/bg.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-700.jpg);
 	background-position: center;
 }
-.parallaxGrid2{
+.parallaxGrid2 {
 	transform: translateZ(-1px) scale(3.2); /* parallax effect */
-	background-image: url(../img/bg2.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-700.jpg);
 }
-.parallaxGrid3{
+.parallaxGrid3 {
 	transform: translateZ(-1px) scale(3.2) translate(50%); /* parallax effect */	
-	background-image: url(../img/bg5.jpg);
+	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-700.jpg);
 }
