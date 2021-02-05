@@ -24,13 +24,13 @@ body {
 	transform: translateZ(-1px) scale(2.1); /* parallax effect */
 }
 .parallax {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1612409578638-b890d0fa9364?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1440&q=60);
 }
 .parallax2 {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1612288528103-edc64749d4ad?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDM3fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1440&q=60);
 }
 .parallax3 {
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1582219207224-fd3f8046535b?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1440&q=60);
 }
 .text {
 	position: absolute;
@@ -118,13 +118,13 @@ body {
 }
 .parallaxGrid1 {
 	transform: translateZ(-1px) scale(4); /* parallax effect */	
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/07/16/119053/ea9db663a095aa99dbfbe4cdf0b93d7c-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1611354108689-1aa05c7bf009?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8dG93SlpGc2twR2d8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 }
 .parallaxGrid2 {
 	transform: translateZ(-1px) scale(4); /* parallax effect */
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2013/10/20/163191/4d125103a53067bf9106fecc6d251bbf-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1612482655147-7b5502962613?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDI5fHRvd0paRnNrcEdnfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 }
 .parallaxGrid3 {
 	transform: translateZ(-1px) scale(4); /* parallax effect */	
-	background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/01/05/575345/20f38e4463598b5b51dcbef57a8adeed-1000.jpg);
+	background-image: url(https://images.unsplash.com/photo-1602125773090-4c31e0b64793?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDcwfHRvd0paRnNrcEdnfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 }
